@@ -12,17 +12,14 @@ Typical use: cat instance.graph | python main.py
 
 ### Authors ###
 Édouard Bonnet  
-Middlesex University, UK  
-<edouard.bonnet@dauphine.fr>  
+Middlesex University, UK
 
 R. B. Sandeep  
 Institute for Computer Science and Control  
-Hungarian Academy of Sciences (MTA SZTAKI), Hungary  
-<sandharb@gmail.com>
+Hungarian Academy of Sciences (MTA SZTAKI), Hungary
 
 Florian Sikora  
-LAMSADE, CNRS, Université Paris-Dauphine, France  
-<florian.sikora@dauphine.fr>
+LAMSADE, CNRS, Université Paris-Dauphine, France
 
 Requirements:
 Networkx
