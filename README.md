@@ -14,3 +14,6 @@ Requirements:
 Networkx
 
 It also uses some part of the PADS library of D. Eppstein http://www.ics.uci.edu/~eppstein/PADS/
+
+### License ###
+This project is under the GPLv3 license (see [license](LICENSE))
