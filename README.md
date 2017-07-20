@@ -21,7 +21,8 @@ Hungarian Academy of Sciences (MTA SZTAKI), Hungary
 Florian Sikora  
 LAMSADE, CNRS, Université Paris-Dauphine, France
 
-Requirements:
+### Requirement: ###
+Python 2
 Networkx
 
 ### License ###
