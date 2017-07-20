@@ -1,6 +1,6 @@
 # README #
 
-This is an implementation to solve the Minimum Fill In problem, done in the context of the PACE 2017 challenge
+This is an implementation to solve the Minimum Fill In problem (called MFI), done in the context of the PACE 2017 challenge
 https://pacechallenge.wordpress.com/pace-2017/track-b-minimum-fill-in/
 
 A description of the algorithm used can be found in the document [description.pdf](description.pdf).
@@ -10,10 +10,22 @@ It gives in output the solution, i.e. the edges to remove to make the graph chor
 
 Typical use: cat instance.graph | python main.py
 
+### Authors ###
+Édouard Bonnet
+Middlesex University, UK
+edouard.bonnet@dauphine.fr
+
+R. B. Sandeep
+Institute for Computer Science and Control
+Hungarian Academy of Sciences (MTA SZTAKI), Hungary
+sandharb@gmail.com
+
+Florian Sikora
+Université Paris-Dauphine, France
+florian.sikora@dauphine.fr
+
 Requirements:
 Networkx
-
-It also uses some part of the PADS library of D. Eppstein http://www.ics.uci.edu/~eppstein/PADS/
 
 ### License ###
 This project is under the GPLv3 license (see [license](LICENSE))
