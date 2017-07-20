@@ -8,7 +8,7 @@ A description of the algorithm used can be found in the document description.pdf
 To program wait for a description of the graph in stdin in the form "one line = one edge" where an edge is the two ids of each node.
 It gives in output the solution, i.e. the edges to remove to make the graph chordal.
 
-Typical use: cat instance.graph | python main.py
+Typical use: cat instance.graph | python main.py
 
 Requirements:
 Networkx
