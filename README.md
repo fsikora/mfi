@@ -10,9 +10,10 @@ It gives in output the solution, i.e. the edges to remove to make the graph chor
 
 Typical use: cat instance.graph | python main.py
 
-### Authors ###
+### Authors
+
 Édouard Bonnet  
-Middlesex University, UK
+ENS Lyon
 
 R. B. Sandeep  
 Institute for Computer Science and Control  
@@ -21,9 +22,9 @@ Hungarian Academy of Sciences (MTA SZTAKI), Hungary
 Florian Sikora  
 LAMSADE, CNRS, Université Paris-Dauphine, France
 
-### Requirement: ###
+### Requirement:
 Python 2
 Networkx
 
-### License ###
+### License
 This project is under the GPLv3 license (see [license](LICENSE))
