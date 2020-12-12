@@ -1,4 +1,4 @@
-# README #
+# README
 
 This is an implementation to solve the Minimum Fill In problem (called MFI), done in the context of the PACE 2017 challenge
 https://pacechallenge.wordpress.com/pace-2017/track-b-minimum-fill-in/
@@ -10,7 +10,7 @@ It gives in output the solution, i.e. the edges to remove to make the graph chor
 
 Typical use: cat instance.graph | python main.py
 
-### Authors
+### Authors
 
 Édouard Bonnet  
 ENS Lyon
